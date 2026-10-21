@@ -2,4 +2,4 @@ hello git!
 i am learning git
 i am learning git diff
 i am developertesting commit -am
-learning gi amend
+learning git amend
