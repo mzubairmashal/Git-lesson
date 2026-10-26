@@ -4,3 +4,4 @@ i am learning git diff
 i am developertesting commit -am
 learning git amend
 learning git stash
+i am practicing git stash
