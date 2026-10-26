@@ -4,4 +4,8 @@ i am learning git diff
 i am developertesting commit -am
 learning git amend
 learning git stash
+<<<<<<< HEAD
 i am practicing git stash
+=======
+this line is added from GitHub website
+>>>>>>> 0809f4666726796b5dab53c965b4e61fab850efa
